@@ -72,3 +72,24 @@ li:first-letter {
 .weather-temperature .active {
   text-decoration: none;
 }
+
+.next-days {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+  position: left;
+  font-size: 30px;
+  color: #42c0eb;
+  font-weight: bolder;
+}
+h3 {
+  font-size: medium;
+}
