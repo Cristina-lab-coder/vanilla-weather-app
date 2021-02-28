@@ -77,9 +77,6 @@ li:first-letter {
   max-width: 600px;
   margin: 30px auto;
   padding: 20px;
-  border: 1px solid #dadde1;
-  border-radius: 5px;
-  margin-top: 10px;
 }
 
 h2 {
@@ -92,4 +89,12 @@ h2 {
 }
 h3 {
   font-size: medium;
+}
+.col-2 {
+  display: inline-block;
+  margin-top: 10px;
+}
+.icon img {
+  position: absolute;
+  margin: 0 auto;
 }
