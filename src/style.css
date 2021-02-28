@@ -57,3 +57,10 @@ li:first-letter {
   font-size: 16px;
   top: -34px;
 }
+.float-left {
+  display: left;
+  vertical-align: top;
+  height: 60px;
+  margin-top: unset;
+  width: 60px;
+}
